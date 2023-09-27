@@ -10,7 +10,7 @@ header{
 	padding-top: 5px;
 	padding-bottom: 1px;
 }
-h1,h2{
+h1,h2,h4{
 	font-family: 'Dela Gothic One', cursive;
 }
 
@@ -47,6 +47,7 @@ h4{
 	color:#F23E3E ;
 	padding-bottom: 0px;
 }
+
 footer{
 	background-color:#D96A54 ;
 	text-align: center;
@@ -62,4 +63,33 @@ footer a{
 footer a:hover{
 	opacity: .5;
 	background-color: transparent ;
+}
+
+p.caption{
+	color:#999999;
+}
+p.caption{
+    position: relative;
+    top: -20px;
+    left: -280px;
+}
+
+a.mamma:hover{
+opacity: .5;
+color: grey;
+}
+
+a.pappa:hover{
+	opacity: .5;
+	color: grey;
+}
+
+a.Elmar:hover{
+	opacity: .5;
+	color: grey;
+}
+
+a.Cara:hover{
+	opacity: .5;
+	color: grey;
 }
