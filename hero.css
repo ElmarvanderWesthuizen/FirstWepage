@@ -35,6 +35,8 @@ main img{
 h2{
 	font-size: 45px;
 	color: #F23E3E;
+	margin: 40px 0 10px;
+
 }
 a{
 	color: #F23E3E;
@@ -70,8 +72,9 @@ p.caption{
 }
 p.caption{
     position: relative;
-    top: -20px;
-    left: -280px;
+    left: -270px;
+    font-style: italic;
+    margin-top: 0;
 }
 
 a.mamma:hover{
@@ -90,6 +93,11 @@ a.Elmar:hover{
 }
 
 a.Cara:hover{
+	opacity: .5;
+	color: grey;
+}
+
+a.Quinn:hover{
 	opacity: .5;
 	color: grey;
 }
